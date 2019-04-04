@@ -7,15 +7,98 @@
         },
         {
             "quote": "It is better to be feared than loved, if you cannot be both.",
-            "author": "Niccolo Machiavelli"
+            "author": "Niccolo Machiavelli",
+            "image": "images/niccolo_machiavelli.jpg"
         },
         {
             "quote": "The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.",
-            "author": "Amelia Earhart"
+            "author": "Amelia Earhart",
+            "image": "images/amelia_earhart.jpg"
         },
         {
-            "quote": "Learning never exhausts the mind",
-            "author": "Leonardo da Vinci"
+            "quote": "Learning never exhausts the mind.",
+            "author": "Leonardo da Vinci",
+            "image": "images/leonardo_da_vinci.jpg"
+        },
+        {
+            "quote": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+            "author": "Helen Keller",
+            "image": "images/helen_keller.jpg"
+        },
+        {
+            "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+            "author": "Edmund Burke",
+            "image": "images/edmund_burke.jpg"
+        },
+        {
+            "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+            "author": "Winston Churchill",
+            "image": "images/winston_churchill.jpg"
+        },
+        {
+            "quote": "Today you are you! That is truer than true! There is no one alive who is you-er than you!",
+            "author": "Dr. Seuss",
+            "image": "images/dr_seuss.jpg"
+        },
+        {
+            "quote": "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.",
+            "author": "William Arthur Ward",
+            "image": "images/william_arthur_ward.jpg"
+        },
+        {
+            "quote": "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
+            "author": "John F. Kennedy",
+            "image": "images/john_f_kennedy.jpg"
+        },
+        {
+            "quote": "Life's most persistent and urgent question is, 'What are you doing for others?'",
+            "author": "Martin Luther King, Jr.",
+            "image": "images/martin_luther_king.jpg"
+        },
+        {
+            "quote": "For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.",
+            "author": "Judy Garland",
+            "image": "images/judy_garland.jpg"
+        },
+        {
+            "quote": "If you live to be a hundred, I want to live to be a hundred minus one day so I never have to live without you.",
+            "author": "A.A. Milne",
+            "image": "images/a_a_milne.jpg"
+        },
+        {
+            "quote": "A kiss is a lovely trick designed by nature to stop speech when words become superflous.",
+            "author": "Ingrid Bergman",
+            "image": "images/ingrid_bergman.jpg"
+        },
+        {
+            "quote": "Everything has beauty, but not everyone sees it.",
+            "author": "Confucius",
+            "image": "images/confucius.jpg"
+        },
+        {
+            "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+            "author": "George Bernand Shaw",
+            "image": "images/george_bernard_shaw.jpg"
+        },
+        {
+            "quote": "You don't choose your family. They are God's gift to you, as you are to them.",
+            "author": "Desmond Tutu",
+            "image": "images/desmond_tutu.jpg"
+        },
+        {
+            "quote": "We know what we are, but know not what we may be.",
+            "author": "William Shakespeare",
+            "image": "images/william_shakespeare.jpg"
+        },
+        {
+            "quote": "All our dreams can come true, if we have the courage to pursue them.",
+            "author": "Walt Disney",
+            "image": "images/walt_disney.jpg"
+        },
+        {
+            "quote": "Problems are not stop signs, they are guidelines.",
+            "author": "Robert H. Schuller",
+            "image": "images/robert_h_schuller.jpg"
         }
     ]
 }

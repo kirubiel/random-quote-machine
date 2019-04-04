@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
+body {
+    font-family: 'Slabo 27px', serif;
+    background: url('background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+
+    display: grid;
+    grid-template-rows: 100vh;
+    justify-items: center;
+    align-items: center;
+
+    #quote-box {
+        display: grid;
+        grid-template-rows: auto auto;
+        width: 600px;
+        background: rgba(255,255,255, .7);
+        font-size: 20px;
+        border-radius: 10px;
+        overflow: hidden;
+
+        img {
+            width: 600px;
+            height: 400px;
+            object-fit: cover;
+        }
+
+        p {
+            margin: 10px;
+        }
+
+        #text {
+            border-top: 1px solid black;
+            margin-top: 15px;
+            padding-top: 5px;
+        }
+
+        #buttons {
+            margin: 10px;
+
+            button {
+                font-weight: lighter;
+                background: inherit;
+            }
+        }
+    }
+}
