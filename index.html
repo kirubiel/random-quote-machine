@@ -5,15 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Random Quote Machine</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css"/>
     <link rel="stylesheet" type="text/css" media="screen" href="main.css">
 </head>
 <body>
     <div id="quote-box">
         <div id="quotes"></div>
         <div id="buttons">
-            <button id="new-quote">New Quote</button>
-            <a id="tweet-quote" role="button"><button>Tweet Quote</button></a>
+            <button id="new-quote" class="button">New Quote</button>
+            <a
+                id="tweet-quote"
+                role="button"
+                class="button"
+                target="_blank"
+                href="twitter.com/intent/tweet">Tweet Quote</a>
         </div>
     </div>
     <script src="main.js"></script>

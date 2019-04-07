@@ -28,8 +28,19 @@ body {
       padding-top: 5px; }
     body #quote-box #buttons {
       margin: 10px; }
-      body #quote-box #buttons button {
+      body #quote-box #buttons .button {
+        font-family: 'Slabo 27px', serif;
+        text-decoration: none;
+        color: black;
+        margin: 3px;
+        padding: 3px;
+        border: 1px solid rgba(5, 5, 5, 0.2);
         font-weight: lighter;
-        background: inherit; }
+        font-size: 22px;
+        background: inherit;
+        cursor: pointer; }
+        body #quote-box #buttons .button:hover {
+          background-color: rgba(5, 5, 5, 0.1);
+          transition: .4s; }
 
 /*# sourceMappingURL=main.css.map */
