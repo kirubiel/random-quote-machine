@@ -24,10 +24,6 @@ function displayQuotes() {
         });
 }
 
-function tweetQuote() {
-    setTimeout(() => {
-        location.href=`http://twitter.com/intent/tweet?hashtags=quotes&text=${encodeURIComponent(text) + " - " + encodeURIComponent(author)}&via=therealkirubiel`;
-    }, 50);
-}
-
-document.getElementById('tweet-quote').addEventListener('click', tweetQuote);
+document.getElementById('tweet-quote').addEventListener('click', () => {
+    location.href=`http://twitter.com/intent/tweet?hashtags=quotes&text=${encodeURIComponent(text) + " - " + encodeURIComponent(author)}&via=therealkirubiel`;
+});
